@@ -215,7 +215,7 @@ lf.deleteNode(nodeId);
 ```
 ### lf.cloneNode
 
-删除节点
+克隆节点
 
 **参数**
 | 名称   | 类型   | 描述            |
